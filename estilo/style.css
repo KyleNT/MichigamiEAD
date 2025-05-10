@@ -1,0 +1,303 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans";
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.clear {
+    clear: both;
+}
+
+header {
+    padding: 8px 0;
+    background: #334b63;
+}
+
+header div.logo {
+    float: left;
+}
+
+div.logo a {
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+header nav.desktop {
+    float: right;
+}
+
+header li {
+    display: inline-block;
+    padding: 0 13px;
+    font-size: 15px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+header ul a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background: rgb(225, 225, 225);
+}
+
+.box-login {
+    width: 100%;
+    max-width: 700px;
+    background: white;
+    padding: 20px 10px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box-login h2 {
+    color: #334b63;
+    font-weight: normal;
+    font-size: 19px;
+    margin: 10px 0;
+}
+
+.box-login input[type=text],
+.box-login input[type=password] {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding-left: 8px;
+}
+
+.box-login input[type=submit] {
+    display: block;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border: 0;
+    background: #334b63;
+    color: white;
+}
+
+.box {
+    margin-top: 10px;
+    background: white;
+    padding: 30px;
+}
+
+.apresentacao,
+.video-aula {
+    margin-top: 10px;
+    width: 100%;
+    position: relative;
+    padding-top: 60%;
+}
+
+.apresentacao iframe,
+.video-aula iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.deseja-estudar {
+    font-size: 20px;
+    color: #ccc;
+    margin: 10px 0;
+    border-bottom: 2px solic #ccc;
+}
+
+.nome_modulo {
+    margin: 15px 0;
+    font-size: 19px;
+    color: #4b4b4b;
+}
+
+.nome_aula {
+    font-size: 17px;
+    color: #4b4b4b;
+    border-bottom: 1px solid black;
+    margin-top: 8px;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+
+.nome_aula a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-chamada {
+    display: inline-block;
+    margin-top: 10px;
+    background: #334b63;
+    color: white;
+    padding: 4px 10px;
+    text-decoration: none;
+}* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans";
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.clear {
+    clear: both;
+}
+
+header {
+    padding: 8px 0;
+    background: #334b63;
+}
+
+header div.logo {
+    float: left;
+}
+
+div.logo a {
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+header nav.desktop {
+    float: right;
+}
+
+header li {
+    display: inline-block;
+    padding: 0 13px;
+    font-size: 15px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+}
+
+header ul a:hover {
+    text-decoration: underline;
+}
+
+body {
+    background: rgb(225, 225, 225);
+}
+
+.box-login {
+    width: 100%;
+    max-width: 700px;
+    background: white;
+    padding: 20px 10px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box-login h2 {
+    color: #334b63;
+    font-weight: normal;
+    font-size: 19px;
+    margin: 10px 0;
+}
+
+.box-login input[type=text],
+.box-login input[type=password] {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding-left: 8px;
+}
+
+.box-login input[type=submit] {
+    display: block;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border: 0;
+    background: #334b63;
+    color: white;
+}
+
+.box {
+    margin-top: 10px;
+    background: white;
+    padding: 30px;
+}
+
+.apresentacao,
+.video-aula {
+    margin-top: 10px;
+    width: 100%;
+    position: relative;
+    padding-top: 60%;
+}
+
+.apresentacao iframe,
+.video-aula iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.deseja-estudar {
+    font-size: 20px;
+    color: #ccc;
+    margin: 10px 0;
+    border-bottom: 2px solic #ccc;
+}
+
+.nome_modulo {
+    margin: 15px 0;
+    font-size: 19px;
+    color: #4b4b4b;
+}
+
+.nome_aula {
+    font-size: 17px;
+    color: #4b4b4b;
+    border-bottom: 1px solid black;
+    margin-top: 8px;
+    font-weight: lighter;
+    padding-left: 10px;
+}
+
+.nome_aula a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-chamada {
+    display: inline-block;
+    margin-top: 10px;
+    background: #334b63;
+    color: white;
+    padding: 4px 10px;
+    text-decoration: none;
+}
