@@ -41,7 +41,10 @@ Configure a conexão em includes/connection.php
 Acesse:
 
 http://localhost/MichigamiEAD/
+
+
 📄 Licença
+
 Este projeto é aberto para fins de aprendizado e demonstração de sistemas EAD.
 
 
