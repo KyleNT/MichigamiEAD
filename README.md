@@ -42,8 +42,9 @@ Acesse:
 
 http://localhost/MichigamiEAD/
 
+---
 
-📄 Licença
+## 📄 Licença
 
 Este projeto é aberto para fins de aprendizado e demonstração de sistemas EAD.
 
